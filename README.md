@@ -6,7 +6,7 @@ Este repositório visa mostrar um projeto de análise de dados feito com o intui
 
 ## Decrição do Projeto
 
-Este projeto visa analisar um dataset referente as turbinas eólicas, onde temos os dados de como as turbinas deveriam de fato funcionar, de acordo com a métrica, Curva de Potência Teórica, e como de fato ela funcionou, de acordo com a métrica, Potência Ativa.
+Este projeto visa realizar um estudo de cao referente a um dataset de turbinas eólicas, onde temos dados de como as turbinas deveriam de fato funcionar de acordo com a métrica, Curva de Potência Teórica, e como de fato ela funcionou, de acordo com a métrica, Potência Ativa.
 
 Sabendo disso, vamos analisar se de fato as turbinas estão se comportando de acordo com o que o fabricante especificou como o ideal.
 - Para isso sera delimitado um erro aceitável para que os dados saiam desse comportamento ideal da curva.
